@@ -38,8 +38,6 @@ To deploy this project open the folder of this project and a command prompt on t
 java -cp target/classes;target/dependency/* edu.escuelaing.arep.lab1.CalculatorOperator
 ```
 
-![](https://github.com/CarlosGomez380/arep-lab2.1/blob/master/img/deploy2.PNG)
-
 Open your browser and type:
 
 ```
